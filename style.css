@@ -1,0 +1,86 @@
+.gallery img{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 90px;
+    width: 16%;
+}
+
+.gallery1 img{
+    padding-left: 30px;
+    padding-bottom: 20px;   
+}   
+
+#menu{
+    text-align: left;
+    font-family: fantasy;
+    font-stretch: extra-expanded;
+    font-size: 20px;
+    font-weight: 400px;
+}
+
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    color: darkgreen;   
+}
+
+h2{
+    font-family: fantasy;
+    font-size: 20px;
+    color: darkgreen;  
+}
+
+#description{
+    position: absolute;
+    left: 0px;
+    top: 270px;
+    width: 600px;
+    border: 3px;
+    padding: 80px;
+}
+
+p{
+    font-family: sans-serif;
+    font-weight: 600;
+    color: darkcyan;
+}
+
+table{
+    position: absolute;
+    right: 20px;
+    top: 200px;
+    width: 400px;
+    border: 3px;
+    padding: 80px;
+    border-style:groove;
+    align-content: space-around;
+    border-collapse: collapse;
+    text-align: inherit;
+    padding: 5px;
+    border-color: darkorange;
+    background-color: azure;
+
+}
+
+#stockprice{
+    position:absolute;
+    text-align: center;
+    right: 50px;
+    top: 300px;
+    font-size: 45px;
+    padding-top: 20px;
+}
+
+textarea{
+    width:300px;
+    height:80px;
+    border-color: darkcyan;
+}
+label{
+    color: darkcyan;
+}
+input{
+    border-color: darkcyan;
+}
+
